@@ -1,12 +1,12 @@
 # kaspersky trial resetter unlimited trials
-#KASPERSKY TRIAL RESETTER
+# KASPERSKY TRIAL RESETTER
 
-###BAT file To reset kaspersky's 30 day trial.
+### BAT file To reset kaspersky's 30 day trial.
  
 This is a simple bat file which deletes the registry key that holds up the license information of
 Kaspersky Antivirus, Internet Security, Total Security. Giving you unlimited trial resets when executing it.
 
-##INSTRUCTIONS
+## INSTRUCTIONS
 
 (i)   Uninstall previously installed Kaspersky Application ( AV ) without keeping license information 
       ( check the delete license information during uninstall , but you can save the application settings or operational settings )  
